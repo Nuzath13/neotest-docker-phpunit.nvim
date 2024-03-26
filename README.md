@@ -1,5 +1,5 @@
 # Neotest Docker PHPUnit nvim plugin
-Run phpunit tests in the docker container. This plugin extends the [ neotest-phpunit ]( https://github.com/olimorris/neotest-phpunit ) plugin and execute the test in the specified dokcer container.
+To execute phpunit tests within the docker container, utilize this plugin an extension of the  [ neotest-phpunit ]( https://github.com/olimorris/neotest-phpunit ) plugin. This facilitates the seamless execution of tests  within the specified dokcer container container.
 
 ## Installation
 ### Install the binary from cargo
